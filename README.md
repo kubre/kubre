@@ -5,7 +5,7 @@
 ## 👦🏽 About me:
 
 <p>
-CS Student worked as a Freelance Fullstack Engineer since 2017, and currently working as a Fullstack Engineering Intern at TARS.
+Fullstack Engineer at TARS, Previously worked as a Freelance Web developer from 2017 to 2021.
 </p>
 
 <h2>Specialised in:</h2>
