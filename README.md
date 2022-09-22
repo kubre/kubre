@@ -5,7 +5,7 @@
 ## 👦🏽 About me:
 
 <p>
-Fullstack Engineer at TARS, Previously worked as a Freelance Web developer from 2017 to 2021.
+Fullstack Engineer at TARS, Previously worked as a Freelance Web developer from 2018 to 2021.
 </p>
 
 <h2>Specialised in:</h2>
