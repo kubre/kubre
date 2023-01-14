@@ -5,7 +5,7 @@
 ## 👦🏽 About me:
 
 <p>
-Fullstack Engineer at TARS, Previously worked as a Freelance Web developer from 2018 to 2021. Fullstack Engineer who is focused on delivering the product to user with strong sense of responsibilty on what I deliver, love to work in teams. Knowledge of SPA, MPA and other rendering techniques like ISR, etc. Can handle Databases and APIs, well versed with auth and security on the web.
+Fullstack Engineer at TARS, Previously worked as a Freelance Web developer from 2019 to 2021. Fullstack Engineer who is focused on delivering the product to user with strong sense of responsibilty on what I deliver, love to work in teams. Knowledge of SPA, MPA and other rendering techniques like ISR, etc. Can handle Databases and APIs, well versed with auth and security on the web. Always eager to learn new things and work in teams.
 </p>
 
 <h2>Specialised in:</h2>
