@@ -1,11 +1,11 @@
 <h2 align="center">
-  Hey there I'm Vaibhav Kubre (Fullstack Engineer) 
+  Hey there I'm Vaibhav Kubre (Fullstack Engineer)
 </h2>
 
 ## 👦🏽 About me:
 
 <p>
-Fullstack Engineer at TARS, Previously worked as a Freelance Web developer from 2019 to 2021. Fullstack Engineer who is focused on delivering the product to user with strong sense of responsibilty on what I deliver, love to work in teams. Knowledge of SPA, MPA and other rendering techniques like ISR, etc. Can handle Databases and APIs, well versed with auth and security on the web. Always eager to learn new things and work in teams.
+I'm currently working as a Fullstack Engineer at TARS, Previously worked as a Freelance Web developer from 2019 to 2021. I'm focused on delivering the product to user with strong sense of responsibilty of what I build and need to maintain. I also like to work in teams and learn and imporove in them. Always like to improve upon the process I'm working on, may it be using tests, languages, tools, etc.
 </p>
 
 <h2>Specialised in:</h2>
