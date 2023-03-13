@@ -8,7 +8,7 @@
 I'm currently working as a Fullstack Engineer at TARS, Previously worked as a Freelance Web developer from 2019 to 2021. I'm focused on delivering the product to user with strong sense of responsibilty of what I build and need to maintain. I also like to work in teams and learn and imporove in them. Always like to improve upon the process I'm working on, may it be using tests, languages, tools, etc.
 </p>
 
-<h2>Specialised in:</h2>
+<h2>Skills:</h2>
 
 ![Nodejs](https://img.shields.io/badge/🚀_Backend-NodeJS-3C873A) &nbsp;
 ![ReactJs](https://img.shields.io/badge/⭐_Frontend-ReactJS-61dafb) &nbsp;
