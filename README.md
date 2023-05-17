@@ -17,5 +17,5 @@
 ![Tailwind](https://img.shields.io/badge/⭐_Frontend-Tailwind-47a7ab) &nbsp;
 ![NoSQL](https://img.shields.io/badge/💎_Database-MongoDB-3FA037) &nbsp;
 ![SQL](https://img.shields.io/badge/💎_Database-MySQL-417399) &nbsp;
-![Laravel](https://img.shields.io/badge/🚀_Backend-Exress-333333) &nbsp;
+![Laravel](https://img.shields.io/badge/🚀_Backend-Expressjs-333333) &nbsp;
  
